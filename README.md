@@ -1,2 +1,2 @@
 # Hospital PDF Viewer
- This is a PDF Viewer for Andriod OS using Java.
+ This is a PDF Viewer for Android OS using Java.
